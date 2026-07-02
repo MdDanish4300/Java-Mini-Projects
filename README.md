@@ -19,13 +19,21 @@ A console-based game where the player has to guess a randomly generated number w
 
 ---
 
-## 📌 Upcoming Projects
+### ❌⭕ Tic-Tac-Toe
+A console-based two-player Tic-Tac-Toe game built using Java.
 
-- Tic-Tac-Toe Game
-- Calculator
-- ATM System
-- Student Management System
-- Library Management System
+**Features**
+- Two-player gameplay
+- Winner detection
+- Draw detection
+- Invalid move handling
+
+**Concepts Used**
+- Arrays
+- Loops
+- Conditional Statements
+- Methods
+- Scanner Class
 
 ---
 
@@ -34,4 +42,5 @@ A console-based game where the player has to guess a randomly generated number w
 **Md Danish**
 
 Learning Java • DSA • Software Development 🚀
+
 ⭐ Feel free to explore the projects and follow my learning journey!
